@@ -1,5 +1,5 @@
 # Visual collaborative experiment
-Run index.html using chrome.
+Run index.html using chrome. Browser console will log the data after every trial.
 
 There are 5 AI conditions in the experiment. In `script.js`, set `const condition` to 1/2/3/4/5, corresponding to conditions A/B/C/D/E in the paper. 
 
